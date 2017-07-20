@@ -11,6 +11,9 @@
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="CollapseDocComments">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
