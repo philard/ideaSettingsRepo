@@ -1,4 +1,9 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -23,8 +28,12 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="CopyElement" />
   <action id="EditFavorites">
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="alt button142" />
@@ -66,7 +75,7 @@
   <action id="GotoNextError" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
-    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="shift button2" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
@@ -121,6 +130,7 @@
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="RenameFile">
