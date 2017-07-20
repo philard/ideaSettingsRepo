@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="MCH buildtools" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="ant " />
+      <option name="PARAMETERS" value=" -file /Users/philip_john_ardley/d/5.7MCH2/src/MIG5-mch-release-7.2.3.7/buildtools/build_MCH.xml" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
