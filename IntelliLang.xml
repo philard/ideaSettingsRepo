@@ -1,8 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <injection language="DTD" injector-id="xml">
-      <display-name>configuration</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().equalTo("configuration")).withNamespace(string().equalTo("http://maven.apache.org/POM/4.0.0"))]]></place>
-    </injection>
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
   </component>
 </application>
