@@ -28,6 +28,7 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="ContextHelp" />
   <action id="CopyElement" />
   <action id="EditFavorites">
     <keyboard-shortcut first-keystroke="f2" />
@@ -116,6 +117,9 @@
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="Maven_b9247cf3BerlinClock327eb155install">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="shift alt o" />
@@ -130,8 +134,8 @@
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
-    <keyboard-shortcut first-keystroke="f5" />
-    <keyboard-shortcut first-keystroke="f2" />
+    <mouse-shortcut keystroke="alt button1" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
