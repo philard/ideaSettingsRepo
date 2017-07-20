@@ -94,6 +94,7 @@
     <keyboard-shortcut first-keystroke="ctrl 1" />
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl escape" />
   </action>
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="OptimizeImports">
