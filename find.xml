@@ -1,42 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="for b2c no testsrc" />
-    <option name="defaultScopeName" value="for b2c no testsrc" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="for b2c no testsrc" />
-    <option name="FILE_MASK" value="*items.xml" />
-    <recentFileMasks>
-      <mask>*i.xml</mask>
-      <mask>*.xml</mask>
-      <mask>*s.xml</mask>
-      <mask>*sp.xml</mask>
-      <mask>*spr.xml</mask>
-      <mask>*sprin.xml</mask>
-      <mask>*spring..xml</mask>
-      <mask>*spring.x.xml</mask>
-      <mask>*spring.xm.xml</mask>
-      <mask>*spring.xml.xml</mask>
-      <mask>*spring.xmlxml</mask>
-      <mask>*spring.xmlml</mask>
-      <mask>*spring.xmll</mask>
-      <mask>*spring.xml</mask>
-      <mask>*s</mask>
-      <mask>*impe</mask>
-      <mask>*impex</mask>
-      <mask>*.</mask>
-      <mask>*.im</mask>
-      <mask>*.impe</mask>
-      <mask>*.impex</mask>
-      <mask>*impex.</mask>
-      <mask>*</mask>
-      <mask>*.i</mask>
-      <mask>*.ite</mask>
-      <mask>*.items</mask>
-      <mask>*.items.</mask>
-      <mask>*.items.x</mask>
-      <mask>*.items.xml</mask>
-      <mask>*items.xml</mask>
-    </recentFileMasks>
+    <option name="customScope" value="Project 'Syntax-highlighter'" />
+    <option name="defaultScopeName" value="Project 'Syntax-highlighter'" />
+    <option name="SEARCH_SCOPE" value="Project 'Syntax-highlighter'" />
   </component>
 </application>
