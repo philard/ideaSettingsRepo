@@ -153,8 +153,8 @@
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
-    <mouse-shortcut keystroke="alt button1" />
     <keyboard-shortcut first-keystroke="alt r" />
+    <mouse-shortcut keystroke="shift button1" />
   </action>
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
