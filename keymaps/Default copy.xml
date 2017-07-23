@@ -30,6 +30,9 @@
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
   </action>
+  <action id="Compare.Specified">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
@@ -45,6 +48,7 @@
     <mouse-shortcut keystroke="alt button142" />
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="alt button143" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
