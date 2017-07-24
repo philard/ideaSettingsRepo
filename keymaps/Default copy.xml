@@ -22,12 +22,18 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
   </action>
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="ContextHelp" />
   <action id="CopyElement" />
   <action id="EditFavorites">
     <keyboard-shortcut first-keystroke="f2" />
@@ -63,10 +69,18 @@
     <keyboard-shortcut first-keystroke="ctrl alt m" />
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
     <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
@@ -84,6 +98,9 @@
   <action id="HideSideWindows">
     <keyboard-shortcut first-keystroke="alt caps_lock" />
   </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -93,6 +110,9 @@
   <action id="Inline">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
     <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="IntroduceActionsGroup">
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
@@ -116,6 +136,9 @@
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="Maven_b9247cf3BerlinClock327eb155install">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="shift alt o" />
@@ -130,8 +153,8 @@
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
-    <keyboard-shortcut first-keystroke="f5" />
-    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt r" />
+    <mouse-shortcut keystroke="shift button1" />
   </action>
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />

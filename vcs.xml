@@ -18,8 +18,35 @@
           <option name="url" value="https://github.com/philard/knuthclassesexamples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:OpsIT/instructions.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:dgt79/BDD-dojo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro/SimplePricingService.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:marceloemanoel/JBehaveWithGradle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:jbehave/jbehave-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:mkuthan/example-jbehave.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Philip\java" />
+    <option name="cloneParentDir" value="C:\Users\Philip\java\ex" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
