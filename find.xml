@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -17,7 +16,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.m</mask>
-      <mask>*.</mask>
       <mask>*.i</mask>
       <mask>*.im</mask>
       <mask>*.imp</mask>
@@ -27,6 +25,15 @@
       <mask>*.impexca</mask>
       <mask>*.impexc</mask>
       <mask>*.impex</mask>
+      <mask>*.ix</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
