@@ -4,6 +4,7 @@
       <set>
         <option value="IMPORT_PROJECT" />
         <option value="OPEN_PROJECT" />
+        <option value="ANT" />
         <option value="OPEN_POTENTIAL_PROJECT" />
         <option value="IMPEX_TABLE_FORMAT" />
       </set>
