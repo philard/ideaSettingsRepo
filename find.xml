@@ -3,13 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="definition.xml" />
+    <option name="FILE_MASK" value="*.zul" />
     <recentFileMasks>
-      <mask>*.impexc</mask>
-      <mask>*.ix</mask>
-      <mask>*.x</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
@@ -35,6 +30,11 @@
       <mask>definition.</mask>
       <mask>definition.x</mask>
       <mask>definition.xml</mask>
+      <mask>z</mask>
+      <mask>zu</mask>
+      <mask>zul</mask>
+      <mask>*zul</mask>
+      <mask>*.zul</mask>
     </recentFileMasks>
   </component>
 </application>
