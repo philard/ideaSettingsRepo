@@ -3,14 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.propert</mask>
       <mask>*.properties</mask>
       <mask>*.impe</mask>
       <mask>*.impex</mask>
       <mask>*.im</mask>
       <mask>*.i</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sp</mask>
       <mask>*.sprin</mask>
@@ -19,7 +18,6 @@
       <mask>*.spring.x</mask>
       <mask>*.spring.xml</mask>
       <mask>*..xml</mask>
-      <mask>*.java</mask>
       <mask>defini</mask>
       <mask>definitio</mask>
       <mask>definition</mask>
@@ -31,9 +29,12 @@
       <mask>zul</mask>
       <mask>*zul</mask>
       <mask>*.zul</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
