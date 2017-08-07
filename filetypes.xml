@@ -16,6 +16,7 @@
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping ext="sqp" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="josn" type="PLAIN_TEXT" />
       <mapping ext="em" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
