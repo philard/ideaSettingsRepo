@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.prop</mask>
-      <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.properties</mask>
       <mask>*.impe</mask>
@@ -21,7 +19,6 @@
       <mask>*.spring.x</mask>
       <mask>*.spring.xml</mask>
       <mask>*..xml</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>defini</mask>
       <mask>definitio</mask>
@@ -34,6 +31,9 @@
       <mask>zul</mask>
       <mask>*zul</mask>
       <mask>*.zul</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
