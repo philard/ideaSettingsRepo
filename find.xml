@@ -4,13 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.i</mask>
-      <mask>*.s</mask>
-      <mask>*.sp</mask>
-      <mask>*.sprin</mask>
-      <mask>*.spring</mask>
-      <mask>*.spring.</mask>
-      <mask>*.spring.x</mask>
       <mask>*.spring.xml</mask>
       <mask>*..xml</mask>
       <mask>defini</mask>
@@ -31,9 +24,16 @@
       <mask>*.xml</mask>
       <mask>*,</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.properties</mask>
+      <mask>*.cscc</mask>
+      <mask>*.csc</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
