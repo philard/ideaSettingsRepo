@@ -64,6 +64,10 @@
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="meta m" />
+    <keyboard-shortcut first-keystroke="meta alt m" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -100,6 +104,7 @@
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="MinimizeCurrentWindow" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
