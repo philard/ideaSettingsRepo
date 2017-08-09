@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.spring.xml</mask>
       <mask>*..xml</mask>
@@ -18,10 +19,8 @@
       <mask>*zul</mask>
       <mask>*.zul</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>*,</mask>
       <mask>*</mask>
       <mask>*.p</mask>
@@ -30,10 +29,12 @@
       <mask>*.csc</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scss</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
