@@ -8,11 +8,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.spring.xml</mask>
-      <mask>*..xml</mask>
-      <mask>defini</mask>
-      <mask>definitio</mask>
-      <mask>definition</mask>
       <mask>definition.</mask>
       <mask>definition.x</mask>
       <mask>definition.xml</mask>
@@ -24,8 +19,6 @@
       <mask>*.xm</mask>
       <mask>*,</mask>
       <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.properties</mask>
       <mask>*.cscc</mask>
       <mask>*.csc</mask>
       <mask>*.cs</mask>
@@ -35,9 +28,16 @@
       <mask>*.s</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
