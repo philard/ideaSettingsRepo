@@ -7,37 +7,38 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ig.xml" />
     <recentFileMasks>
-      <mask>z</mask>
-      <mask>zu</mask>
-      <mask>zul</mask>
-      <mask>*zul</mask>
-      <mask>*.xm</mask>
-      <mask>*,</mask>
-      <mask>*</mask>
-      <mask>*.cscc</mask>
-      <mask>*.csc</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.sc</mask>
-      <mask>*.scss</mask>
-      <mask>*.s</mask>
-      <mask>*.jav</mask>
-      <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.properties</mask>
       <mask>*.x,</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.</mask>
       <mask>*.z</mask>
       <mask>*.zu</mask>
       <mask>*.zul</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>defini</mask>
+      <mask>definition.x</mask>
+      <mask>definition.xml</mask>
+      <mask>definition.xm</mask>
+      <mask>definition.</mask>
+      <mask>definition*</mask>
+      <mask>definition</mask>
+      <mask>definitio</mask>
+      <mask>definiti</mask>
+      <mask>definit</mask>
+      <mask>defin</mask>
+      <mask>defi</mask>
+      <mask>def**</mask>
+      <mask>def*</mask>
+      <mask>def</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*ig.xml</mask>
     </recentFileMasks>
   </component>
 </application>
