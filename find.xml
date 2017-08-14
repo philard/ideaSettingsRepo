@@ -7,15 +7,11 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>definition.x</mask>
-      <mask>definition.xml</mask>
       <mask>z</mask>
       <mask>zu</mask>
       <mask>zul</mask>
       <mask>*zul</mask>
-      <mask>*.zul</mask>
       <mask>*.xm</mask>
       <mask>*,</mask>
       <mask>*</mask>
@@ -27,7 +23,6 @@
       <mask>*.scss</mask>
       <mask>*.s</mask>
       <mask>*.jav</mask>
-      <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -37,6 +32,10 @@
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.</mask>
+      <mask>*.z</mask>
+      <mask>*.zu</mask>
+      <mask>*.zul</mask>
+      <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
     </recentFileMasks>
