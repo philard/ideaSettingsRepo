@@ -78,9 +78,6 @@
     <keyboard-shortcut first-keystroke="meta down" />
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
-  <action id="GotoBookmark1">
-    <keyboard-shortcut first-keystroke="alt 1" />
-  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="meta o" />
@@ -95,7 +92,6 @@
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
   <action id="HideSideWindows">
-    <keyboard-shortcut first-keystroke="ctrl 1" />
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
     <keyboard-shortcut first-keystroke="ctrl escape" />
