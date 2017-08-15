@@ -2,16 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.properties</mask>
       <mask>*.x,</mask>
       <mask>*.z</mask>
       <mask>*.zu</mask>
@@ -38,6 +33,10 @@
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.pro</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
