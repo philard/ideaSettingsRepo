@@ -3,15 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*impex" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.z</mask>
-      <mask>*.zu</mask>
-      <mask>*.zul</mask>
-      <mask>*.j</mask>
-      <mask>defini</mask>
       <mask>definition.x</mask>
       <mask>definition.xml</mask>
       <mask>definition.xm</mask>
@@ -26,17 +23,22 @@
       <mask>def**</mask>
       <mask>def*</mask>
       <mask>def</mask>
-      <mask>*.x</mask>
       <mask>*ig.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*impex</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
       <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.prope</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
+      <mask>*.properti</mask>
       <mask>*.properties</mask>
-      <mask>*impex</mask>
     </recentFileMasks>
   </component>
 </application>
