@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>definition.x</mask>
       <mask>definition.xml</mask>
@@ -22,12 +21,8 @@
       <mask>def</mask>
       <mask>*ig.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*impex</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
@@ -36,6 +31,10 @@
       <mask>*.propert</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
