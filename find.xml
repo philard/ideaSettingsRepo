@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>definition.x</mask>
-      <mask>definition.xml</mask>
       <mask>definition.xm</mask>
       <mask>definition.</mask>
       <mask>definition*</mask>
@@ -19,7 +18,6 @@
       <mask>def*</mask>
       <mask>def</mask>
       <mask>*ig.xml</mask>
-      <mask>*.xml</mask>
       <mask>*impex</mask>
       <mask>*.x</mask>
       <mask>*.pr</mask>
@@ -34,6 +32,9 @@
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.xmk</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
