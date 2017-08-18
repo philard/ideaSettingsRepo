@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.Java" />
     <recentFileMasks>
-      <mask>definition.xm</mask>
-      <mask>definition.</mask>
-      <mask>definition*</mask>
       <mask>definition</mask>
       <mask>definitio</mask>
       <mask>definiti</mask>
@@ -34,6 +32,9 @@
       <mask>*.xmk</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.J</mask>
+      <mask>*.Ja</mask>
+      <mask>*.Java</mask>
     </recentFileMasks>
   </component>
 </application>
