@@ -55,9 +55,6 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="home" />
   </action>
-  <action id="EditorResetFontSize">
-    <keyboard-shortcut first-keystroke="ctrl 0" />
-  </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
