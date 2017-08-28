@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>definiti</mask>
       <mask>definit</mask>
@@ -29,11 +30,11 @@
       <mask>*.Jav</mask>
       <mask>*.J</mask>
       <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.ja</mask>
       <mask>*xml</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
