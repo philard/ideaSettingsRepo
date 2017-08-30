@@ -5,11 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>definiti</mask>
-      <mask>definit</mask>
-      <mask>defin</mask>
       <mask>defi</mask>
       <mask>def**</mask>
       <mask>def*</mask>
@@ -37,6 +33,9 @@
       <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*i.xml</mask>
+      <mask>*ite.xml</mask>
+      <mask>*items.xml</mask>
     </recentFileMasks>
   </component>
 </application>
