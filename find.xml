@@ -2,11 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>defi</mask>
-      <mask>def**</mask>
-      <mask>def*</mask>
       <mask>def</mask>
       <mask>*ig.xml</mask>
       <mask>*impex</mask>
@@ -28,12 +27,15 @@
       <mask>*xml</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*i.xml</mask>
       <mask>*ite.xml</mask>
       <mask>*items.xml</mask>
+      <mask>*i</mask>
+      <mask>*ija</mask>
+      <mask>*ijava</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
