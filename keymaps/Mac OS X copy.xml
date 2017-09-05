@@ -30,6 +30,7 @@
   <action id="CopyReference">
     <keyboard-shortcut first-keystroke="shift meta alt c" />
     <keyboard-shortcut first-keystroke="shift ctrl meta c" />
+    <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
   <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Debugger.EditCustomField" />
@@ -96,6 +97,7 @@
   <action id="IntroduceActionsGroup">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
+  <action id="IntroduceConstant" />
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MinimizeCurrentWindow" />
   <action id="OptimizeImports">
@@ -116,9 +118,13 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
