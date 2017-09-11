@@ -7,7 +7,6 @@
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="sqp" type="PLAIN_TEXT" />
       <mapping ext="em" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
