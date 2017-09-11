@@ -1,0 +1,15 @@
+<filetype binary="false" description="scss" name="a scss">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+    </options>
+    <keywords keywords="background" ignore_case="false" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="scss" />
+  </extensionMap>
+</filetype>

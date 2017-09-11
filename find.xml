@@ -2,41 +2,39 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.m</mask>
-      <mask>*.imp</mask>
-      <mask>*.impexcata</mask>
-      <mask>*.impexcat</mask>
-      <mask>*.impexca</mask>
-      <mask>*.impexc</mask>
-      <mask>*.ix</mask>
-      <mask>*.x</mask>
+      <mask>*ig.xml</mask>
+      <mask>*impex</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
+      <mask>*.prope</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
+      <mask>*.properti</mask>
       <mask>*.properties</mask>
-      <mask>*.impe</mask>
-      <mask>*.impex</mask>
-      <mask>*.im</mask>
-      <mask>*.i</mask>
+      <mask>*.p</mask>
+      <mask>*.xmk</mask>
+      <mask>*.xm</mask>
+      <mask>*.Ja</mask>
+      <mask>*.Java</mask>
+      <mask>*.Jav</mask>
+      <mask>*.J</mask>
+      <mask>*xml</mask>
       <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sp</mask>
-      <mask>*.sprin</mask>
-      <mask>*.spring</mask>
-      <mask>*.spring.</mask>
-      <mask>*.spring.x</mask>
-      <mask>*.spring.xml</mask>
-      <mask>*..xml</mask>
+      <mask>*.ja</mask>
+      <mask>*i.xml</mask>
+      <mask>*ite.xml</mask>
+      <mask>*items.xml</mask>
+      <mask>*i</mask>
+      <mask>*ija</mask>
+      <mask>*ijava</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*.x</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
