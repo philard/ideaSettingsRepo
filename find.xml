@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ns.xml" />
     <recentFileMasks>
-      <mask>*impex</mask>
-      <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.prope</mask>
@@ -34,6 +33,8 @@
       <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*n.xml</mask>
+      <mask>*ns.xml</mask>
     </recentFileMasks>
   </component>
 </application>
