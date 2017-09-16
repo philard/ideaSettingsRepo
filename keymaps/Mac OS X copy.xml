@@ -2,6 +2,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
+  <action id="Ant_12071a7_platform_all">
+    <keyboard-shortcut first-keystroke="alt a" second-keystroke="a" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">
