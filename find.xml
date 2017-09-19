@@ -2,16 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.properti</mask>
-      <mask>*.properties</mask>
-      <mask>*.p</mask>
-      <mask>*.xmk</mask>
-      <mask>*.xm</mask>
       <mask>*.Ja</mask>
       <mask>*.Java</mask>
       <mask>*.Jav</mask>
@@ -30,13 +23,18 @@
       <mask>*.xml</mask>
       <mask>*n.xml</mask>
       <mask>*ns.xml</mask>
-      <mask>*.</mask>
-      <mask>*.i</mask>
       <mask>*.im</mask>
       <mask>*.impo</mask>
       <mask>*.imp</mask>
       <mask>*.impe</mask>
       <mask>*.impex</mask>
+      <mask>*.i</mask>
+      <mask>*.</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.properti</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
