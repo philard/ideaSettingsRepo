@@ -3,15 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="extensioninfo.xml" />
     <recentFileMasks>
-      <mask>*ija</mask>
-      <mask>*ijava</mask>
-      <mask>*.jav</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*n.xml</mask>
-      <mask>*ns.xml</mask>
       <mask>*.im</mask>
       <mask>*.impo</mask>
       <mask>*.imp</mask>
@@ -35,6 +27,13 @@
       <mask>extensioninfo.</mask>
       <mask>extensioninfo.x</mask>
       <mask>extensioninfo.xml</mask>
+      <mask>*..xml</mask>
+      <mask>*.x.xml</mask>
+      <mask>*.xml.xml</mask>
+      <mask>*.xmlxml</mask>
+      <mask>*.xmlml</mask>
+      <mask>*.xmll</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
