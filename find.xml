@@ -4,13 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.im</mask>
-      <mask>*.impo</mask>
-      <mask>*.imp</mask>
-      <mask>*.impe</mask>
-      <mask>*.impex</mask>
-      <mask>*.i</mask>
-      <mask>*.</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
@@ -34,6 +27,13 @@
       <mask>*.xmlml</mask>
       <mask>*.xmll</mask>
       <mask>*.xml</mask>
+      <mask>*Inter</mask>
+      <mask>*Interce</mask>
+      <mask>*Intercep</mask>
+      <mask>*Intercept</mask>
+      <mask>*Interceptor</mask>
+      <mask>*Interceptor.</mask>
+      <mask>*Interceptor.java</mask>
     </recentFileMasks>
   </component>
 </application>
