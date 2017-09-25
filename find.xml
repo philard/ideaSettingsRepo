@@ -3,13 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.proper</mask>
-      <mask>*.properti</mask>
-      <mask>*.properties</mask>
-      <mask>*.java</mask>
       <mask>extens</mask>
       <mask>extensio</mask>
       <mask>extension</mask>
@@ -34,6 +29,12 @@
       <mask>*Interceptor</mask>
       <mask>*Interceptor.</mask>
       <mask>*Interceptor.java</mask>
+      <mask>*Inter.java</mask>
+      <mask>*Inte.java</mask>
+      <mask>*Int.java</mask>
+      <mask>*In.java</mask>
+      <mask>*I.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
