@@ -5,8 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>extens</mask>
       <mask>extensio</mask>
       <mask>extension</mask>
       <mask>extensioni</mask>
@@ -22,7 +22,6 @@
       <mask>*.xmlxml</mask>
       <mask>*.xmlml</mask>
       <mask>*.xmll</mask>
-      <mask>*.xml</mask>
       <mask>*Inter</mask>
       <mask>*Interce</mask>
       <mask>*Intercep</mask>
@@ -36,6 +35,8 @@
       <mask>*In.java</mask>
       <mask>*I.java</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
