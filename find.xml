@@ -31,9 +31,9 @@
       <mask>*In.java</mask>
       <mask>*I.java</mask>
       <mask>*.java</mask>
+      <mask>*.impex</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
