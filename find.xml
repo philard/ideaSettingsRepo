@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>extension</mask>
-      <mask>extensioni</mask>
-      <mask>extensionin</mask>
-      <mask>extensioninf</mask>
       <mask>extensioninfo</mask>
       <mask>extensioninfo.</mask>
       <mask>extensioninfo.x</mask>
@@ -32,9 +28,13 @@
       <mask>*In.java</mask>
       <mask>*I.java</mask>
       <mask>*.java</mask>
-      <mask>*.impex</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.im</mask>
+      <mask>*.imoe</mask>
+      <mask>*.imoex</mask>
+      <mask>*.imex</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
