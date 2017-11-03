@@ -2,19 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*backoffice*.xml" />
     <recentFileMasks>
-      <mask>*.xml.xml</mask>
-      <mask>*.xmlxml</mask>
-      <mask>*.xmlml</mask>
-      <mask>*.xmll</mask>
-      <mask>*Inter</mask>
-      <mask>*Interce</mask>
-      <mask>*Intercep</mask>
-      <mask>*Intercept</mask>
-      <mask>*Interceptor</mask>
-      <mask>*Interceptor.</mask>
-      <mask>*Interceptor.java</mask>
       <mask>*Inter.java</mask>
       <mask>*Inte.java</mask>
       <mask>*Int.java</mask>
@@ -31,9 +23,20 @@
       <mask>*.impex</mask>
       <mask>*.x</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
-      <mask>*i.xml</mask>
       <mask>*items.xml</mask>
+      <mask>*item.xml</mask>
+      <mask>*it.xml</mask>
+      <mask>*i.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*b.xml</mask>
+      <mask>*ba.xml</mask>
+      <mask>*bac.xml</mask>
+      <mask>*back.xml</mask>
+      <mask>*backof.xml</mask>
+      <mask>*backoff.xml</mask>
+      <mask>*backoffi.xml</mask>
+      <mask>*backoffice.xml</mask>
+      <mask>*backoffice*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
