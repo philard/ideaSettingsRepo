@@ -3,20 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Handler*.java" />
     <recentFileMasks>
-      <mask>*Int.java</mask>
-      <mask>*In.java</mask>
-      <mask>*I.java</mask>
-      <mask>*.imoe</mask>
-      <mask>*.imoex</mask>
-      <mask>*.imex</mask>
-      <mask>*.xm</mask>
-      <mask>*.im</mask>
-      <mask>*.impl</mask>
-      <mask>*.imp</mask>
-      <mask>*.impe</mask>
-      <mask>*.impex</mask>
-      <mask>*.x</mask>
       <mask>*.java</mask>
       <mask>*items.xml</mask>
       <mask>*item.xml</mask>
@@ -34,6 +22,19 @@
       <mask>*backoffice*.xml</mask>
       <mask>**.xml</mask>
       <mask>*spring*.xml</mask>
+      <mask>*spring*.*</mask>
+      <mask>*spring*.**</mask>
+      <mask>*spring*.**Ha</mask>
+      <mask>*spring*.**Han</mask>
+      <mask>*spring*.**Hand</mask>
+      <mask>*spring*.**Handl</mask>
+      <mask>*spring*.**Handler</mask>
+      <mask>*spring*.**Handler.</mask>
+      <mask>*spring*.**Handler.ja</mask>
+      <mask>*spring*.**Handler.java</mask>
+      <mask>*spring*.**Handler*.java</mask>
+      <mask>*spring*.*Handler*.java</mask>
+      <mask>*Handler*.java</mask>
     </recentFileMasks>
   </component>
 </application>
