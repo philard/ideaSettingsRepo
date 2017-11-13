@@ -118,6 +118,10 @@
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
