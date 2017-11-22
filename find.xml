@@ -3,15 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*spring*.**</mask>
-      <mask>*spring*.**Ha</mask>
-      <mask>*spring*.**Han</mask>
-      <mask>*spring*.**Hand</mask>
-      <mask>*spring*.**Handl</mask>
-      <mask>*spring*.**Handler</mask>
-      <mask>*spring*.**Handler.</mask>
       <mask>*spring*.**Handler.ja</mask>
       <mask>*spring*.**Handler.java</mask>
       <mask>*spring*.**Handler*.java</mask>
@@ -35,6 +27,13 @@
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*.c</mask>
+      <mask>*.cl</mask>
+      <mask>*.cla</mask>
+      <mask>*.clas</mask>
+      <mask>*.class</mask>
     </recentFileMasks>
   </component>
 </application>
