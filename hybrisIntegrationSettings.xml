@@ -8,6 +8,7 @@
         <option value="ANT" />
         <option value="OPEN_POTENTIAL_PROJECT" />
         <option value="IMPEX_TABLE_FORMAT" />
+        <option value="BUILD_PROJECT" />
       </set>
     </option>
   </component>
