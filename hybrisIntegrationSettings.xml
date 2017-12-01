@@ -9,6 +9,7 @@
         <option value="OPEN_POTENTIAL_PROJECT" />
         <option value="IMPEX_TABLE_FORMAT" />
         <option value="BUILD_PROJECT" />
+        <option value="RUN_TESTS" />
       </set>
     </option>
   </component>
