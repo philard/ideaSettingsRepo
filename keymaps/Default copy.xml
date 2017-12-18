@@ -19,9 +19,6 @@
   <action id="CollapseDocComments">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
-  <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="ctrl subtract" />
-  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
@@ -148,7 +145,6 @@
     <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="ReformatCode">
@@ -158,7 +154,7 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="alt r" />
     <mouse-shortcut keystroke="shift button1" />
-    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
