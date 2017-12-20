@@ -3,21 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.items.xml</mask>
-      <mask>*.items.xm</mask>
-      <mask>*.items.x</mask>
-      <mask>*.items.</mask>
-      <mask>*.items</mask>
-      <mask>*.item</mask>
-      <mask>*.ite</mask>
-      <mask>*.it</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>*-</mask>
-      <mask>*-item</mask>
-      <mask>*-items</mask>
-      <mask>*items.zml</mask>
       <mask>*items.zm</mask>
       <mask>*items.z</mask>
       <mask>*items.</mask>
@@ -34,6 +21,20 @@
       <mask>*-items.</mask>
       <mask>*-items.x</mask>
       <mask>*-items.xml</mask>
+      <mask>*</mask>
+      <mask>*.java</mask>
+      <mask>*.jaav</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
