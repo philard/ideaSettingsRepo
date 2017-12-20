@@ -1,13 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*items.zm</mask>
       <mask>*items.z</mask>
@@ -15,7 +11,9 @@
       <mask>*items.x</mask>
       <mask>*items.xml</mask>
       <mask>*.i</mask>
+      <mask>*.x</mask>
       <mask>*.xm</mask>
+      <mask>*.xml</mask>
       <mask>*.im</mask>
       <mask>*.imp</mask>
       <mask>*.impe</mask>
@@ -23,9 +21,13 @@
       <mask>*-items.</mask>
       <mask>*-items.x</mask>
       <mask>*-items.xml</mask>
+      <mask>*</mask>
+      <mask>*.java</mask>
       <mask>*.jaav</mask>
       <mask>*.jav</mask>
+      <mask>*.ja</mask>
       <mask>*.j</mask>
+      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -33,12 +35,6 @@
       <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.properties</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
