@@ -5,17 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*pom.xml" />
     <recentFileMasks>
-      <mask>*items.zm</mask>
-      <mask>*items.z</mask>
-      <mask>*items.</mask>
-      <mask>*items.x</mask>
-      <mask>*items.xml</mask>
-      <mask>*.i</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.im</mask>
       <mask>*.imp</mask>
       <mask>*.impe</mask>
       <mask>*.impex</mask>
@@ -28,14 +19,24 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.properties</mask>
+      <mask>*.po</mask>
+      <mask>*.pom</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*om.xml</mask>
+      <mask>*m.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*p.xml</mask>
+      <mask>*po.xml</mask>
+      <mask>*pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
