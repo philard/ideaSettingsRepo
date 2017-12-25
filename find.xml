@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*items.</mask>
       <mask>*items.x</mask>
@@ -31,9 +32,9 @@
       <mask>*.propert</mask>
       <mask>*.properties</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*i.xml</mask>
       <mask>*info.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
