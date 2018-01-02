@@ -1,41 +1,39 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="[y] Custom" />
+    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="SEARCH_SCOPE" value="[y] Custom" />
     <recentFileMasks>
-      <mask>*.imp</mask>
-      <mask>*.impe</mask>
-      <mask>*.impex</mask>
-      <mask>*-items.</mask>
-      <mask>*-items.x</mask>
-      <mask>*-items.xml</mask>
-      <mask>*</mask>
-      <mask>*.java</mask>
-      <mask>*.jaav</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.properties</mask>
-      <mask>*.po</mask>
-      <mask>*.pom</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*m.xml</mask>
+      <mask>*info.xml</mask>
       <mask>*.xml</mask>
-      <mask>*p.xml</mask>
-      <mask>*po.xml</mask>
-      <mask>*pom.xml</mask>
-      <mask>*om.xml</mask>
+      <mask>*i.xml</mask>
+      <mask>*items.xml</mask>
+      <mask>*ites.xml</mask>
+      <mask>*its.xml</mask>
+      <mask>*is.xml</mask>
+      <mask>*s.xml</mask>
+      <mask>*beas.xml</mask>
+      <mask>*beans.xml</mask>
+      <mask>*</mask>
+      <mask>*.html</mask>
+      <mask>*.js</mask>
+      <mask>*.js/p</mask>
+      <mask>*.jsp</mask>
+      <mask>*.jta</mask>
+      <mask>*.jt</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ta</mask>
+      <mask>*.tag</mask>
+      <mask>*.t</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
