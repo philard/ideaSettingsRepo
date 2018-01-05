@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <recentFileMasks>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.properties</mask>
       <mask>*.x</mask>
       <mask>*info.xml</mask>
       <mask>*.xml</mask>
@@ -34,6 +31,9 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
