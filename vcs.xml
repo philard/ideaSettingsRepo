@@ -78,9 +78,13 @@
           <option name="url" value="git@github.com:philard/conc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:jcoplien/trygve.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Philip\java\seriousJ\" />
+    <option name="cloneParentDir" value="C:\Users\Philip\java\other\" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
