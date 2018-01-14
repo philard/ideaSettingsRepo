@@ -6,6 +6,7 @@
         <added pattern="com.epam.jamp2.service.CalculationCommandExecutionServiceScenario.line(gbp,dec,gbp1,dec1,add,gbp2,gbp3,dec2)" />
         <added pattern="com.epam.jamp2.service.CalculationCommandExecutionServiceScenario.test(gbp,dec,gbp1,dec1,add,gbp2,gbp3,dec2)" />
         <added pattern="com.epam.jamp2.service.CalculationCommandExecutionServiceScenario.test(gbp,dec,gbp1,dec1,add,resultCurrency,gbp3,dec2)" />
+        <added pattern="com.epam.jamp2.service.CalculationCommandExecutionServiceScenario.test(leftCurrency,leftVal,rightCurrency,rightVal,add,resultCurrency,expectedCurrency,expectedVal)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
