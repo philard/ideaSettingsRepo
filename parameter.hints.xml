@@ -1,5 +1,11 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.epam.jamp2.model.Value.Value(currencyCode,value)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
   </component>
 </application>
