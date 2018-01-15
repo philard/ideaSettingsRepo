@@ -79,16 +79,12 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:alexeymatyas/epam-tdd-training-hometask.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:philard/epam-tdd-training-hometask.git" />
+          <option name="url" value="git@github.com:jcoplien/trygve.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Philip\java\" />
+    <option name="cloneParentDir" value="C:\Users\Philip\java\other\" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
