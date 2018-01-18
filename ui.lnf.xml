@@ -1,6 +1,10 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+  </component>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="40" />
+    <option name="FONT_SCALE" value="1.0" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="29" />
     <option name="MAX_LOOKUP_WIDTH2" value="878" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
