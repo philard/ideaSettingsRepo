@@ -209,5 +209,6 @@
     </group>
     <action id="ShowRecentTests" icon="$APPLICATION_HOME_DIR$/plugins/android/lib/layoutlib/data/res/drawable-ldpi/btn_check_buttonless_on.png" />
     <action id="RunConfiguration" />
+    <action id="EditorToggleShowGutterIcons" icon="$APPLICATION_HOME_DIR$/plugins/android/lib/layoutlib/data/res/drawable-ldpi/radiobutton_off_background.png" />
   </component>
 </application>
