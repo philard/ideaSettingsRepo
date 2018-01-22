@@ -3,7 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="extensioninfo.xml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.js</mask>
@@ -33,8 +33,8 @@
       <mask>extensioninfo</mask>
       <mask>extensioninfo.</mask>
       <mask>extensioninfo.x</mask>
-      <mask>extensioninfo.xml</mask>
       <mask>*</mask>
+      <mask>extensioninfo.xml</mask>
     </recentFileMasks>
   </component>
 </application>
