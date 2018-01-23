@@ -5,15 +5,12 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.impex" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.js</mask>
-      <mask>*.js/p</mask>
       <mask>*.jsp</mask>
       <mask>*.jta</mask>
       <mask>*.jt</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.ta</mask>
       <mask>*.tag</mask>
       <mask>*.t</mask>
@@ -34,8 +31,12 @@
       <mask>extensioninfo</mask>
       <mask>extensioninfo.</mask>
       <mask>extensioninfo.x</mask>
-      <mask>*</mask>
       <mask>extensioninfo.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.im</mask>
+      <mask>*.impe</mask>
+      <mask>*.impex</mask>
     </recentFileMasks>
   </component>
 </application>
