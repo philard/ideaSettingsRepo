@@ -3,10 +3,8 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*tems.xml" />
     <recentFileMasks>
-      <mask>*.pr</mask>
-      <mask>*.properties</mask>
-      <mask>e</mask>
       <mask>ex</mask>
       <mask>exten</mask>
       <mask>extens</mask>
@@ -26,14 +24,17 @@
       <mask>*.item</mask>
       <mask>*.item.</mask>
       <mask>*.item.xml</mask>
-      <mask>*.items.xml</mask>
       <mask>*.ite.xml</mask>
       <mask>*.it.xml</mask>
       <mask>*.i.xml</mask>
-      <mask>*..xml</mask>
       <mask>*te.xml</mask>
-      <mask>*tems.xml</mask>
+      <mask>*.items.xml</mask>
+      <mask>*..xml</mask>
       <mask>*.xml</mask>
+      <mask>*s.xml</mask>
+      <mask>*tes.xml</mask>
+      <mask>*temss.xml</mask>
+      <mask>*tems.xml</mask>
     </recentFileMasks>
   </component>
 </application>
