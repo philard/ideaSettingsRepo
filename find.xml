@@ -31,9 +31,9 @@
       <mask>*.it.xml</mask>
       <mask>*.i.xml</mask>
       <mask>*..xml</mask>
-      <mask>*.xml</mask>
       <mask>*te.xml</mask>
       <mask>*tems.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
