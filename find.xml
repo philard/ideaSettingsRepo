@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*ing.xml" />
     <recentFileMasks>
-      <mask>ex</mask>
-      <mask>exten</mask>
       <mask>extens</mask>
       <mask>extensio</mask>
       <mask>extension</mask>
@@ -31,11 +30,13 @@
       <mask>*te.xml</mask>
       <mask>*.items.xml</mask>
       <mask>*..xml</mask>
-      <mask>*.xml</mask>
       <mask>*s.xml</mask>
       <mask>*tes.xml</mask>
       <mask>*temss.xml</mask>
       <mask>*tems.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*in.xml</mask>
+      <mask>*ing.xml</mask>
     </recentFileMasks>
   </component>
 </application>
