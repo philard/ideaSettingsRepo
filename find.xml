@@ -2,11 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <recentFileMasks>
-      <mask>extens</mask>
       <mask>extensio</mask>
       <mask>extension</mask>
       <mask>extensionin</mask>
@@ -14,11 +11,6 @@
       <mask>extensioninfo.</mask>
       <mask>extensioninfo.x</mask>
       <mask>extensioninfo.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.im</mask>
-      <mask>*.impe</mask>
-      <mask>*.impex</mask>
       <mask>*.i</mask>
       <mask>*.item</mask>
       <mask>*.item.</mask>
@@ -35,6 +27,12 @@
       <mask>*.xml</mask>
       <mask>*in.xml</mask>
       <mask>*ing.xml</mask>
+      <mask>*.im</mask>
+      <mask>*.imp</mask>
+      <mask>*.impe</mask>
+      <mask>*.impex</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.items.xml</mask>
     </recentFileMasks>
   </component>
