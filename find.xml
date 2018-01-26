@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*ing.xml" />
     <recentFileMasks>
       <mask>extens</mask>
       <mask>extensio</mask>
@@ -28,7 +25,6 @@
       <mask>*.it.xml</mask>
       <mask>*.i.xml</mask>
       <mask>*te.xml</mask>
-      <mask>*.items.xml</mask>
       <mask>*..xml</mask>
       <mask>*s.xml</mask>
       <mask>*tes.xml</mask>
@@ -37,6 +33,7 @@
       <mask>*.xml</mask>
       <mask>*in.xml</mask>
       <mask>*ing.xml</mask>
+      <mask>*.items.xml</mask>
     </recentFileMasks>
   </component>
 </application>
