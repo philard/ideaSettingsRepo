@@ -2,8 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>extensioninfo.</mask>
       <mask>extensioninfo.x</mask>
@@ -31,10 +32,10 @@
       <mask>*.</mask>
       <mask>*.items.xml</mask>
       <mask>*.j</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
