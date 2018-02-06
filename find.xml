@@ -3,7 +3,6 @@
     <option name="customScope" value="Custom no_test" />
     <option name="defaultScopeName" value="Custom no_test" />
     <option name="SEARCH_SCOPE" value="Custom no_test" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>extensioninfo.</mask>
       <mask>extensioninfo.x</mask>
