@@ -5,11 +5,10 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>extensioninfo.x</mask>
       <mask>extensioninfo.xml</mask>
-      <mask>*.i</mask>
       <mask>*.item</mask>
       <mask>*.item.</mask>
       <mask>*.item.xml</mask>
@@ -29,14 +28,15 @@
       <mask>*.x</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>*in.xml</mask>
       <mask>*info.xml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.im</mask>
       <mask>*.impe</mask>
       <mask>*.impex</mask>
+      <mask>*.i</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
