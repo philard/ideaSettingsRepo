@@ -10,6 +10,7 @@
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="LOCAL" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="less" type="PLAIN_TEXT" />
       <mapping ext="sqp" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
