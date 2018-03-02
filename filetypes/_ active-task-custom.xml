@@ -2,15 +2,13 @@
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="" />
-      <option name="COMMENT_START" value="{" />
-      <option name="COMMENT_END" value="}" />
-      <option name="HEX_PREFIX" value="" />
-      <option name="NUM_POSTFIXES" value="" />
-      <option name="HAS_BRACES" value="true" />
-      <option name="HAS_BRACKETS" value="true" />
-      <option name="HAS_PARENS" value="true" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="&quot;" />
+      <option name="NUM_POSTFIXES" value="&quot;" />
     </options>
     <keywords keywords="directory=&quot;${spark.oms.ack.messages.input.directory}/completed&quot;;directory=&quot;${spark.oms.messages.output.directory}&quot;;ref=&quot;inboundAcknowledgementMessageService&quot;;service-interface=&quot;com.epam.spark.fulfilmentprocess.oms.outbound.OutboundOmsMessageSender&quot;/;spark.oms.ack.messages.input.directory" ignore_case="false" />
+    <keywords2 keywords="id=&quot;oms-acknowledgement-inbound-channel&quot;;input-channel=&quot;acknowledgement-processing-channel&quot;;reply-channel=&quot;acknowledgement-processing-channel&quot;;request-channel=&quot;oms-acknowledgement-inbound-channel&quot;" />
   </highlighting>
   <extensionMap>
     <mapping pattern="oms-integration-spring.xml" />
