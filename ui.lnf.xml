@@ -1,4 +1,9 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_SHOW_MODULE_GROUPS" value="false" />
+    <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="40" />
     <option name="FONT_SCALE" value="1.0" />

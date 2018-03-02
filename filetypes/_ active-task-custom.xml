@@ -10,9 +10,10 @@
       <option name="HAS_BRACKETS" value="true" />
       <option name="HAS_PARENS" value="true" />
     </options>
-    <keywords keywords="directory=&quot;${spark.oms.ack.messages.input.directory}/completed&quot;;ref=&quot;inboundAcknowledgementMessageService&quot;;spark.oms.ack.messages.input.directory" ignore_case="false" />
+    <keywords keywords="directory=&quot;${spark.oms.ack.messages.input.directory}/completed&quot;;directory=&quot;${spark.oms.messages.output.directory}&quot;;ref=&quot;inboundAcknowledgementMessageService&quot;;service-interface=&quot;com.epam.spark.fulfilmentprocess.oms.outbound.OutboundOmsMessageSender&quot;/;spark.oms.ack.messages.input.directory" ignore_case="false" />
   </highlighting>
   <extensionMap>
-    <mapping pattern="*ment-spring.xml" />
+    <mapping pattern="oms-integration-spring.xml" />
+    <mapping pattern="oms-integration-acknowledgment-spring.xml" />
   </extensionMap>
 </filetype>
