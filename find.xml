@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="CUstom no test" />
-    <option name="defaultScopeName" value="CUstom no test" />
-    <option name="SEARCH_SCOPE" value="CUstom no test" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>extensioninfo.x</mask>
       <mask>extensioninfo.xml</mask>
