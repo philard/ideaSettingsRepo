@@ -1,6 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="SHOW_SOURCE_INFERRED_ANNOTATIONS" value="false" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Default copy for conc" />
