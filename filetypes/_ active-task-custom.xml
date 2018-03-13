@@ -10,6 +10,7 @@
     <keywords keywords="directory=&quot;${spark.oms.ack.messages.input.directory}/completed&quot;;directory=&quot;${spark.oms.messages.output.directory}&quot;;ref=&quot;inboundAcknowledgementMessageService&quot;;service-interface=&quot;com.epam.spark.fulfilmentprocess.oms.outbound.OutboundOmsMessageSender&quot;/;spark.oms.ack.messages.input.directory" ignore_case="false" />
     <keywords2 keywords="directory=&quot;${spark.oms.ack.messages.input.directory};id=&quot;oms-acknowledgement-inbound-channel&quot;;input-channel=&quot;acknowledgement-processing-channel&quot;;reply-channel=&quot;acknowledgement-processing-channel&quot;;request-channel=&quot;oms-acknowledgement-inbound-channel&quot;" />
     <keywords3 keywords="id=&quot;omsMessageSender&quot;;id=&quot;outboundOmsOrderProcessService&quot;;ref=&quot;omsMessageSender&quot;;ref=&quot;outboundOmsOrderProcessService&quot;" />
+    <keywords4 keywords="class=&quot;org.springframework.xml.xpath.Jaxp13XPathTemplate&quot;" />
   </highlighting>
   <extensionMap>
     <mapping pattern="oms-integration-spring.xml" />
