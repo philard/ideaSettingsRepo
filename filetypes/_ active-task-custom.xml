@@ -13,7 +13,7 @@
     <keywords4 keywords="class=&quot;org.springframework.xml.xpath.Jaxp13XPathTemplate&quot;" />
   </highlighting>
   <extensionMap>
-    <mapping pattern="oms-integration-spring.xml" />
     <mapping pattern="oms-integration-acknowledgment-spring.xml" />
+    <mapping pattern="oms-integration-spring.xml" />
   </extensionMap>
 </filetype>
