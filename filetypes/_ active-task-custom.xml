@@ -11,7 +11,7 @@
     <keywords2 keywords="directory=&quot;${spark.oms.ack.messages.input.directory};id=&quot;oms-acknowledgement-inbound-channel&quot;;input-channel=&quot;acknowledgement-processing-channel&quot;;reply-channel=&quot;acknowledgement-processing-channel&quot;;request-channel=&quot;oms-acknowledgement-inbound-channel&quot;" />
   </highlighting>
   <extensionMap>
-    <mapping pattern="oms-integration-spring.xml" />
     <mapping pattern="oms-integration-acknowledgment-spring.xml" />
+    <mapping pattern="oms-integration-spring.xml" />
   </extensionMap>
 </filetype>
