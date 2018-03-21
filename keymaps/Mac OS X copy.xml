@@ -131,6 +131,10 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="ToggleBreakpointEnabled">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
