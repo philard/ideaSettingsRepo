@@ -2,19 +2,20 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="log" type="PLAIN_TEXT" />
-      <mapping pattern="sddd" type="PLAIN_TEXT" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="SaveProductWizardHandler" type="PLAIN_TEXT" />
+      <mapping pattern="sddd" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="LOCAL" type="PLAIN_TEXT" />
-      <mapping pattern="SaveProductWizardHandler" type="PLAIN_TEXT" />
-      <mapping ext="sqp" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="less" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="josn" type="PLAIN_TEXT" />
+      <mapping ext="less" type="PLAIN_TEXT" />
+      <mapping ext="number" type="PLAIN_TEXT" />
+      <mapping ext="sqp" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="josn" type="PLAIN_TEXT" />
       <mapping ext="em" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
