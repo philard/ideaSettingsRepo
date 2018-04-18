@@ -1,4 +1,4 @@
-<filetype binary="false" description=". active-task-custom" name=". active-task-custom">
+<filetype binary="false" description=", active-task-custom" name=", active-task-custom">
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="" />
@@ -13,7 +13,7 @@
     <keywords4 keywords="class=&quot;org.springframework.xml.xpath.Jaxp13XPathTemplate&quot;" />
   </highlighting>
   <extensionMap>
-    <mapping pattern="oms-integration-acknowledgment-spring.xml" />
     <mapping pattern="oms-integration-spring.xml" />
+    <mapping pattern="oms-integration-acknowledgment-spring.xml" />
   </extensionMap>
 </filetype>

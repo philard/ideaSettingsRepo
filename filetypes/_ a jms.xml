@@ -1,0 +1,17 @@
+<filetype binary="false" description=", a jms" name=", a jms">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+    </options>
+    <keywords keywords="id=&quot;destinationQueue&quot;;ref=&quot;destinationQueue&quot;" ignore_case="false" />
+    <keywords2 keywords="id=&quot;connectionFactory&quot;;ref=&quot;connectionFactory&quot;" />
+    <keywords3 keywords="id=&quot;messageListener&quot;;ref=&quot;messageListener&quot;" />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern="applicationContext.xml" />
+  </extensionMap>
+</filetype>
