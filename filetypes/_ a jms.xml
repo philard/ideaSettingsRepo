@@ -10,6 +10,7 @@
     <keywords keywords="id=&quot;destinationQueue&quot;;ref=&quot;destinationQueue&quot;" ignore_case="false" />
     <keywords2 keywords="id=&quot;connectionFactory&quot;;ref=&quot;connectionFactory&quot;" />
     <keywords3 keywords="id=&quot;messageListener&quot;;ref=&quot;messageListener&quot;" />
+    <keywords4 keywords="id=&quot;myMessageConverter&quot;;ref=&quot;myMessageConverter&quot;" />
   </highlighting>
   <extensionMap>
     <mapping pattern="applicationContext.xml" />
